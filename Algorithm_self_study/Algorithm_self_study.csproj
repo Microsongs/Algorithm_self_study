@@ -56,7 +56,18 @@
     <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_10430.cs" />
     <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_10869.cs" />
     <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_2558.cs" />
-    <Compile Include="Day3_백준 사칙연산 도전하기\Baekjoon_2839.cs" />
+    <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_2839.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2741.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2739.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2742.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2438.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2439.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2440.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_1924.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_2441.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_11720.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_8393.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_11721.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
