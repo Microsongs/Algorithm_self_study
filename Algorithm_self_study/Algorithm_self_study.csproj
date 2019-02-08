@@ -43,7 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Day1\Program.cs" />
+    <None Include="Day1\Program.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_1000.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_2557.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_1001.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_10172.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_7287.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\BaekJoon_10718.cs" />
+    <Compile Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_11718.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
