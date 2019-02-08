@@ -50,7 +50,13 @@
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_10172.cs" />
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_7287.cs" />
     <None Include="Day2_백준 단계별로 풀어보기Ver1\BaekJoon_10718.cs" />
-    <Compile Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_11718.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_11718.cs" />
+    <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_1008.cs" />
+    <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_10998.cs" />
+    <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_10430.cs" />
+    <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_10869.cs" />
+    <None Include="Day3_백준 사칙연산 도전하기\Baekjoon_2558.cs" />
+    <Compile Include="Day3_백준 사칙연산 도전하기\Baekjoon_2839.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
