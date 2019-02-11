@@ -68,6 +68,12 @@
     <None Include="Day4_백준 for문 사용해보기\Baekjoon_11720.cs" />
     <None Include="Day4_백준 for문 사용해보기\Baekjoon_8393.cs" />
     <None Include="Day4_백준 for문 사용해보기\Baekjoon_11721.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_10817.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_9498.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_10871.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_1546.cs" />
+    <Compile Include="Day5_백준 if문 사용해보기\Baekjoon_1110.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_4344.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
