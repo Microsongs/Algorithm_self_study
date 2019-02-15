@@ -74,8 +74,10 @@
     <None Include="Day5_백준 if문 사용해보기\Baekjoon_1546.cs" />
     <None Include="Day5_백준 if문 사용해보기\Baekjoon_1110.cs" />
     <None Include="Day5_백준 if문 사용해보기\Baekjoon_4344.cs" />
-    <Compile Include="Day6_백준 함수 사용해보기_셀프 넘버\Baekjoon_1065.cs" />
+    <None Include="Day6_백준 함수 사용해보기_셀프 넘버\Baekjoon_1065.cs" />
     <None Include="Day6_백준 함수 사용해보기_셀프 넘버\Baekjoon_4673.cs" />
+    <Compile Include="Day6_백준 함수 사용해보기_셀프 넘버\Baekjoon_2448_시간초과.cs" />
+    <None Include="Day6_백준 함수 사용해보기_셀프 넘버\Baekjoon_2448.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
