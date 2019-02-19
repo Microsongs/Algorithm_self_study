@@ -80,7 +80,9 @@
     <None Include="Day6_백준 함수 사용해보기_셀프 넘버\Baekjoon_2448.cs" />
     <None Include="Day7_백준 1차원 배열 사용하기\Baekjoon_1152.cs" />
     <None Include="Day7_백준 1차원 배열 사용하기\Baekjoon_2577.cs" />
-    <Compile Include="Day7_백준 1차원 배열 사용하기\Baekjoon_8958.cs" />
+    <None Include="Day7_백준 1차원 배열 사용하기\Baekjoon_8958.cs" />
+    <Compile Include="Day8_백준 1차원 배열 사용하기2\Baekjoon_10039.cs" />
+    <None Include="Day8_백준 1차원 배열 사용하기2\Baekjoon_2920.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
