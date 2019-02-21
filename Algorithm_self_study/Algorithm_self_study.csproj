@@ -85,8 +85,11 @@
     <None Include="Day8_백준 1차원 배열 사용하기2\Baekjoon_2920.cs" />
     <None Include="Day9_백준 문자열 사용하기1\Baekjoon_10809.cs" />
     <None Include="Day9_백준 문자열 사용하기1\Baekjoon_11654.cs" />
-    <Compile Include="Day9_백준 문자열 사용하기1\Baekjoon_1157.cs" />
+    <None Include="Day9_백준 문자열 사용하기1\Baekjoon_1157.cs" />
     <None Include="Day9_백준 문자열 사용하기1\Baekjoon_2675.cs" />
+    <None Include="Day10_백준 문자열 사용하기2\Baekjoon_2908.cs" />
+    <None Include="Day10_백준 문자열 사용하기2\Baekjoon_5622.cs" />
+    <Compile Include="Day10_백준 문자열 사용하기2\Baekjoon_5622V2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
