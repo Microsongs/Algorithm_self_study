@@ -89,7 +89,9 @@
     <None Include="Day9_백준 문자열 사용하기1\Baekjoon_2675.cs" />
     <None Include="Day10_백준 문자열 사용하기2\Baekjoon_2908.cs" />
     <None Include="Day10_백준 문자열 사용하기2\Baekjoon_5622.cs" />
-    <Compile Include="Day10_백준 문자열 사용하기2\Baekjoon_5622V2.cs" />
+    <None Include="Day10_백준 문자열 사용하기2\Baekjoon_5622V2.cs" />
+    <None Include="Day11_백준 문자열 사용하기3\Baekjoon_1316.cs" />
+    <Compile Include="Day11_백준 문자열 사용하기3\Baekjoon_2941.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
