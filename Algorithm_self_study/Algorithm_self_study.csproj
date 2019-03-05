@@ -92,11 +92,12 @@
     <None Include="Day10_백준 문자열 사용하기2\Baekjoon_5622V2.cs" />
     <None Include="Day11_백준 문자열 사용하기3\Baekjoon_1316.cs" />
     <None Include="Day11_백준 문자열 사용하기3\Baekjoon_2941.cs" />
-    <None Include="Day12~14_백준 규칙찾기\Baekjoon_1011.cs" />
-    <None Include="Day12~14_백준 규칙찾기\Baekjoon_1193.cs" />
-    <None Include="Day12~14_백준 규칙찾기\Baekjoon_2292.cs" />
-    <None Include="Day12~14_백준 규칙찾기\Baekjoon_10250.cs" />
-    <Compile Include="Day15_정렬해보기\baekjoon_2750.cs" />
+    <None Include="Day12~14,16_백준 규칙찾기\Baekjoon_1011.cs" />
+    <None Include="Day12~14,16_백준 규칙찾기\Baekjoon_1193.cs" />
+    <None Include="Day12~14,16_백준 규칙찾기\Baekjoon_2292.cs" />
+    <None Include="Day12~14,16_백준 규칙찾기\Baekjoon_10250.cs" />
+    <Compile Include="Day12~14,16_백준 규칙찾기\Baekjoon_2775.cs" />
+    <None Include="Day15_정렬해보기\baekjoon_2750.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
