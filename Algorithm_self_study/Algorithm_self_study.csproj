@@ -103,6 +103,8 @@
     <None Include="Day12~14,16~18_백준 규칙찾기\Baekjoon_6064%28timeover%29.cs" />
     <None Include="Day12~14,16~18_백준 규칙찾기\Baekjoon_6064.cs" />
     <None Include="Day15,19~_정렬해보기\Baekjoon_2751.cs" />
+    <None Include="Day15,19~_정렬해보기\Baekjoon_10989.cs" />
+    <Compile Include="Day15,19~_정렬해보기\Baekjoon_1427.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
