@@ -104,11 +104,15 @@
     <None Include="Day12~14,16~18_백준 규칙찾기\Baekjoon_6064.cs" />
     <None Include="Day15,19~_정렬해보기\Baekjoon_2751.cs" />
     <None Include="Day15,19~_정렬해보기\Baekjoon_10989.cs" />
-    <Compile Include="Day15,19~_정렬해보기\Baekjoon_1427.cs" />
+    <None Include="Day15,19~_정렬해보기\Baekjoon_1427.cs" />
+    <Compile Include="Day15,19~_정렬해보기\Baekjoon_2108%28temp%29.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="day22_빠른 A+B\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
