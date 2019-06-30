@@ -106,7 +106,10 @@
     <None Include="Day15,19~_정렬해보기\Baekjoon_10989.cs" />
     <None Include="Day15,19~_정렬해보기\Baekjoon_1427.cs" />
     <None Include="Day15,19~_정렬해보기\Baekjoon_2108%28temp%29.cs" />
-    <Compile Include="Day15,19~_정렬해보기\Baekjoon_11650.cs" />
+    <None Include="Day15,19~_정렬해보기\Baekjoon_11650.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_10171.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_10430.cs" />
+    <Compile Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_2558 곱셈.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
