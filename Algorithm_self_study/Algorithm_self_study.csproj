@@ -109,7 +109,10 @@
     <None Include="Day15,19~_정렬해보기\Baekjoon_11650.cs" />
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_10171.cs" />
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_10430.cs" />
-    <Compile Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_2558 곱셈.cs" />
+    <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_2558 곱셈.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_1330.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_2753.cs" />
+    <Compile Include="Day5_백준 if문 사용해보기\Baekjoon_2884.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
