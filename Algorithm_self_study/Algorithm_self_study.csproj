@@ -112,7 +112,10 @@
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_2558 곱셈.cs" />
     <None Include="Day5_백준 if문 사용해보기\Baekjoon_1330.cs" />
     <None Include="Day5_백준 if문 사용해보기\Baekjoon_2753.cs" />
-    <Compile Include="Day5_백준 if문 사용해보기\Baekjoon_2884.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_10950.cs" />
+    <None Include="Day5_백준 if문 사용해보기\Baekjoon_2884.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_11021.cs" />
+    <None Include="Day4_백준 for문 사용해보기\Baekjoon_11022.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
