@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="백준 While문 사용해보기\Baekjoon_10951.cs" />
+    <Compile Include="백준 While문 사용해보기\Baekjoon_10952.cs" />
     <None Include="Day1\Program.cs" />
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_1000.cs" />
     <None Include="Day2_백준 단계별로 풀어보기Ver1\Baekjoon_2557.cs" />
