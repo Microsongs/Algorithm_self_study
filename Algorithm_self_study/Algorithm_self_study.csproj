@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="백준 함수 사용해보기\Baekjoon_10872.cs" />
     <None Include="백준 1차원 배열 사용하기\Baekjoon_2562.cs" />
-    <Compile Include="백준 1차원 배열 사용하기\Baekjoon_3052.cs" />
+    <None Include="백준 1차원 배열 사용하기\Baekjoon_3052.cs" />
     <None Include="백준 While문 사용해보기\Baekjoon_10951.cs" />
     <None Include="백준 1차원 배열 사용하기\Baekjoon_10818.cs" />
     <None Include="백준 While문 사용해보기\Baekjoon_10952.cs" />
